@@ -5,3 +5,4 @@ websockets
 chardet
 pytz
 pillow
+os
