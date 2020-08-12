@@ -1,4 +1,5 @@
-__token__ = 'NjcyODY2NjA2MjU4MzIzNDU2.XjRt3A.h60wCwroMuwrQ7YoaBjACGVbW7Q'
+import os
+__token__ = Token
 __prefix__ = ':' #OPTIONAL Prefix for all commands, defaults to colon
 __botserverid__ =  #OPTIONAL Specifies the main serverid from which the server-/modlog should be taken + some other nito features
 __kawaiichannel__ =  #OPTIONAL specified a channel where the :kawaii commands gets this pinned messages
